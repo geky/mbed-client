@@ -84,6 +84,7 @@ public:
         LwIP_IPv6,
         Reserved,
         Nanostack_IPv6,
+        ESP8266,
         Unknown
     }NetworkStack;
 
